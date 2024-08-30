@@ -27,4 +27,4 @@ void draw(){
     ellipse(210,209,30,45); // right nostril 
     ellipse(95, 192, 10, 10);// leftpupil
     ellipse(292, 186, 10, 10);// rightpupil
-    //(cetner,center,WIDTH,HEIGHT
+  
